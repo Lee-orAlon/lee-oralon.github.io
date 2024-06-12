@@ -13,8 +13,8 @@ My research is about artificial intelligence (AI) planning for personalized medi
 - Artificial Intelligence
 - Biology
 - Medicine
-- Robotics
 - Planning
+- Robotics
 - Algorithmoc Game Theory
 - Deep Learning 
 
