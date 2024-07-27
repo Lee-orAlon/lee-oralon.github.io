@@ -48,7 +48,7 @@ pygmentsCodeFences=true
 [params.sidebar]
   backgroundImage = '/images/sidebar.jpeg' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "/images/logo3.png"  # AI_Generated_Image.jpeg"
+  logo = "Lee-or_Alon_logo.png"  #"/images/logo3.png"  # AI_Generated_Image.jpeg"
 [params.assets]
   favicon = ""
   customCSS = ""
