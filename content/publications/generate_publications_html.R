@@ -13,7 +13,7 @@ for (year in years) {
     cat("\n<ul>")
     for (i in 1:(dim(thisyear)[1])) {
       cat(paste("\n<li>",sep = ""))
-      cat(paste(thisyear$Author[i], " (",year,"). ",thisyear$Title[i], ". ", sep=""))
+      cat(paste(thisyear$Author[i], " (",year,"). <b>",thisyear$Title[i], "</b>. ", sep=""))
       if (!is.na(thisyear$Journal[i])) {
         cat(paste("<i>",thisyear$Journal[i],"</i>. ",sep="")) 
       }
