@@ -4,6 +4,7 @@ my_data <- read.csv("publications.csv", header = TRUE, stringsAsFactors = FALSE)
 my_data$Row <- row.names(my_data)
 my_data <- my_data[order(my_data$Year, as.numeric(my_data$Row), 
                          decreasing = c(TRUE, TRUE)), ]
+my_data <- my_data[order(-my_data$Year, -my_data$Month, as.numeric(my_data$Row)), ]
 years <- sort(unique(my_data$Year), decreasing = TRUE)
 
 for (year in years) {
