@@ -1,6 +1,6 @@
 ---
 title:
 description:
-date: "{{ .Date }}"
+<!-- date: "{{ .Date }}" -->
 publishDate: "{{ .Date }}"
 ---
