@@ -6,8 +6,10 @@ layout: 'publications'
 
 ## 2024
 <ul>
-<li>Lee-or Alon, Hana Weitman, Alexander Shleyfman, and Gal A. Kaminka (2024). <b>Planning to be Healthy: Towards Personalized Medication Planning</b>. <i>In Proceedings of the European Conference on Artificial Intelligence (ECAI)</i>. 
-<li>Lee-or Alon, Hana Weitman, Alexander Shleyfman, and Gal A. Kaminka (2024). <b>Towards Explainable General Medication Planning</b>. <i>In Proceesings of the ECAI Workshop on Explainable Artificial Intelligence for the Medical Domain (EXPLIMED-24)</i>. 
+<li>Lee-or Alon, Hana Weitman, Alexander Shleyfman, and Gal A. Kaminka (2024). <b>Planning to be Healthy: Towards Personalized Medication Planning</b>. <i>In Proceedings of the European Conference on Artificial Intelligence (ECAI)</i>.  <a href=" FAIA-392-FAIA240996.pdf " 
+            target="_blank">[pdf]</i></a>
+<li>Lee-or Alon, Hana Weitman, Alexander Shleyfman, and Gal A. Kaminka (2024). <b>Towards Explainable General Medication Planning</b>. <i>In Proceesings of the ECAI Workshop on Explainable Artificial Intelligence for the Medical Domain (EXPLIMED-24)</i>.  <a href=" explimed24.pdf " 
+            target="_blank">[pdf]</i></a>
 <li>Lee-or Alon, Hana Weitman, Alexander Shleyfman, and Gal A. Kaminka (2024). <b>Towards Precision Medication Planning</b>. <i>In Proceedings of the AIME Workshop on AI and Precision Medicine</i>. 
 <li>Lee-or Alon, Hana Weitman, Alexander Shleyfman, and Gal Kaminka (2024). <b>Towards Personalized Medication Planning</b>. <i>In Proceedings of the ICAPS-24 Workshop on Knowledge Engineering for Planning and Scheduling (KEPS)</i>.  <a href=" KEPS-24_paper_16.pdf " 
             target="_blank">[pdf]</i></a>
