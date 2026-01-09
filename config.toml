@@ -1,0 +1,116 @@
+baseURL = 'https://lee-oralon.github.io/'  # 'https://u.cs.biu.ac.il/~alonlee1/' #' #https://sites.google.com/view/lee-or-alon
+languageCode = 'en-us'
+title = 'Lee-or Alon'
+#theme = "hugo-creative-portfolio-theme"
+
+#title: Lee-or Alon # Website name
+#baseURL: '' # Website URL
+
+theme = "personal-web"
+copyright="© Lee-or Alon"
+googleAnalytics = ""
+enableEmoji=true
+enableRobotsTXT=true
+pygmentsUseClasses=true
+pygmentsCodeFences=true
+
+[params.intro]
+  main = "Lee-or Alon" #"Hi, I'm Lee-or :wave:"
+  sub = "PhD student<h4>Computer Science Department</br>Bar-Ilan University</h4></br>"
+
+[params.main]
+  latestPublishHeader = "My Latest Project"
+
+[taxonomies]
+  design = "designs"
+  tech = "techs"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[params]
+  breadcrumb = true
+  accentColor = "#6fa8dc" #"#FD3519"
+  mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
+  rendererSafe = false # set to true if wish to remove the unsafe renderer setting below (recommended). Titles will not be run through markdownify
+
+[params.notFound]
+  gopher = "/images/surpreised_robot.jpeg" #"/images/gopher.png" # checkout https://gopherize.me/
+  h1 = 'Oops...'
+  p = "It seems that this page doesn't exist."
+
+[params.sections]
+  # Define how your sections will be called
+  # when automatically pulled. For instance in the 404 page
+  post = "article"
+  portfolio = "project"
+
+[params.sidebar]
+  backgroundImage = '/images/sidebar.jpeg' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
+  logo = "/images/Lee-or_Alon_logo.png"  #"/images/logo3.png"  # AI_Generated_Image.jpeg"
+[params.assets]
+  favicon = ""
+  customCSS = ""
+
+[params.social]
+  #github = "https://github.com/"
+  #twitter = "https://twitter.com/"
+  linkedin = "https://il.linkedin.com/in/lee-or-alon-bb3693173"
+  #medium = "https://medium.com/"
+  #codepen = "https://codepen.io/"
+  #facebook = "https://www.facebook.com/"
+  youtube = "https://www.youtube.com/channel/UCcfJ7P9ldjZb8a69ONlbKNw"
+  instagram = "https://www.instagram.com/"
+  #gitlab = "https://gitlab.com/"
+  #keybase = "https://keybase.io/"
+  googlescholar = "https://scholar.google.com/citations?user=-nKuz4AAAAAJ&hl=en&oi=ao"
+
+[params.contact]
+  email = "alonlee1@biu.ac.il"
+  text= "Email Me" # text of the contact link in the sidebar. If email params.contact.email is defined
+
+
+[menu]
+
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  title = "Lee-or Alon"
+  url = "/"
+  weight = -120
+
+[[menu.main]]
+  identifier = "publications"
+  name = "Publications"
+  title = "Publications"
+  url = "/publications/"
+  weight = -110
+
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  title = "Posts"
+  url = "/post/"
+  weight = -100
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

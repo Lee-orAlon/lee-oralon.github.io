@@ -4,22 +4,28 @@ description: 'Publications'
 layout: 'publications'
 ---
 
+## 2025
+<ul>
+<li>Daniel Gnad, Lee-or Alon, Eyal Weiss, Alexander Shleyfman (2025). <b>PDBs Go Numeric: Pattern-Database Heuristics for Simple Numeric Planning</b>. <i>Proceedings of the AAAI Conference on Artificial Intelligence</i>.  <a href=" PDBs-Go-Numeric-AAAI.pdf " 
+            target="_blank">[pdf]</i></a>
+</ul>
+
 ## 2024
 <ul>
-<li>Lee-or Alon, Hana Weitman, Alexander Shleyfman, and Gal A. Kaminka (2024). <b>Planning to be Healthy: Towards Personalized Medication Planning</b>. <i>In Proceedings of the European Conference on Artificial Intelligence (ECAI)</i>.  <a href=" FAIA-392-FAIA240996.pdf " 
+<li>Lee-or Alon, Hana Weitman, Alexander Shleyfman, and Gal A. Kaminka (2024). <b>Planning to be Healthy: Towards Personalized Medication Planning</b>. <i>In Proceedings of the European Conference on Artificial Intelligence (ECAI)</i>.  <a href=" Planning-to-be-Healthy-ECAI-24.pdf " 
             target="_blank">[pdf]</i></a>
-<li>Lee-or Alon, Hana Weitman, Alexander Shleyfman, and Gal A. Kaminka (2024). <b>Towards Explainable General Medication Planning</b>. <i>In Proceesings of the ECAI Workshop on Explainable Artificial Intelligence for the Medical Domain (EXPLIMED-24)</i>.  <a href=" explimed24.pdf " 
+<li>Lee-or Alon, Hana Weitman, Alexander Shleyfman, and Gal A. Kaminka (2024). <b>Towards Explainable General Medication Planning</b>. <i>In Proceesings of the ECAI Workshop on Explainable Artificial Intelligence for the Medical Domain (EXPLIMED-24)</i>.  <a href=" EXPLIMED-24-Towards-Explainable-General-Medication-Planning.pdf " 
             target="_blank">[pdf]</i></a>
 <li>Lee-or Alon, Hana Weitman, Alexander Shleyfman, and Gal A. Kaminka (2024). <b>Towards Precision Medication Planning</b>. <i>In Proceedings of the AIME Workshop on AI and Precision Medicine</i>. 
-<li>Lee-or Alon, Hana Weitman, Alexander Shleyfman, and Gal Kaminka (2024). <b>Towards Personalized Medication Planning</b>. <i>In Proceedings of the ICAPS-24 Workshop on Knowledge Engineering for Planning and Scheduling (KEPS)</i>.  <a href=" KEPS-24_paper_16.pdf " 
+<li>Lee-or Alon, Hana Weitman, Alexander Shleyfman, and Gal Kaminka (2024). <b>Towards Personalized Medication Planning</b>. <i>In Proceedings of the ICAPS-24 Workshop on Knowledge Engineering for Planning and Scheduling (KEPS)</i>.  <a href=" KEPS-24-Towards-Personalized-Medication-Planning.pdf " 
             target="_blank">[pdf]</i></a>
-<li>Daniel Gnad, Lee-or Alon, Eyal Weiss, and Alexander Shleyfman (2024). <b>PDBs Go Numeric: Pattern-Database Heuristics for Simple Numeric Planning</b>. <i>In Proceedings of the ICAPS-24 Workshop on Heuristics and Search for Domain-Independent Planning (HSDIP)</i>.  <a href=" HSDIP-24_paper_13.pdf " 
+<li>Daniel Gnad, Lee-or Alon, Eyal Weiss, and Alexander Shleyfman (2024). <b>PDBs Go Numeric: Pattern-Database Heuristics for Simple Numeric Planning</b>. <i>In Proceedings of the ICAPS-24 Workshop on Heuristics and Search for Domain-Independent Planning (HSDIP)</i>.  <a href=" HSDIP24-PDBs-Go-Numeric.pdf " 
             target="_blank">[pdf]</i></a>
 </ul>
 
 ## 2023
 <ul>
-<li>Lee-or Alon, Hana Weitman, and  Gal A. Kaminka (2023). <b>First Steps Towards Planning for Targeted Medicine</b>. <i>In Proceedings of the ICAPS-23 Workshop on Knowledge Engineering for Planning and Scheduling (KEPS)</i>.  <a href=" KEPS-23_paper_8750.pdf " 
+<li>Lee-or Alon, Hana Weitman, and  Gal A. Kaminka (2023). <b>First Steps Towards Planning for Targeted Medicine</b>. <i>In Proceedings of the ICAPS-23 Workshop on Knowledge Engineering for Planning and Scheduling (KEPS)</i>.  <a href=" First-Steps-Towards-Planning-for-Targeted-Medicine-KEPS-23.pdf " 
             target="_blank">[pdf]</i></a>
 </ul>
 
@@ -41,9 +47,6 @@ layout: 'publications'
 
 ## 2018
 <ul>
-<li>Lee-or Alon, Noa Agmon, and Gal A. Kaminka (2018). <b>Taking Turns in Complete Coverage for Multiple Robots</b>. <i>In 14th International Symposium on Distributed Autonomous Robotic Systems (DARS-2018), Springer</i>.  <a href=" dars18.pdf " 
+<li>Lee-or Alon, Noa Agmon, and Gal A. Kaminka (2018). <b>Taking Turns in Complete Coverage for Multiple Robots</b>. <i>In 14th International Symposium on Distributed Autonomous Robotic Systems (DARS-2018), Springer</i>.  <a href=" Taking-Turns-in-Complete-Coverage-for-Multiple-Robots-DARS-18.pdf " 
             target="_blank">[pdf]</i></a>
 </ul>
-
-
-
