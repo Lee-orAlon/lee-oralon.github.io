@@ -16,7 +16,7 @@ pygmentsCodeFences=true
 
 [params.intro]
   main = "Lee-or Alon" #"Hi, I'm Lee-or :wave:"
-  sub = "PhD student under the supervision of Prof. Gal Kaminka and Dr. Hana Weitman <h4>Computer Science Department</br>Bar-Ilan University</h4></br>"
+  sub = "PhD student<h4>Computer Science Department</br>Bar-Ilan University</h4></br>"
 
 [params.main]
   latestPublishHeader = "My Latest Project"
